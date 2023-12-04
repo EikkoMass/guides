@@ -1,6 +1,6 @@
 # Turning on the computer with Alexa (Linux Guide)
 
-This repository has the objective to guide how to initialize a linux computer with Alexa.
+This guide has the objective to guide how to initialize a linux computer with Alexa.
 
 To start with the tests, was used the video: https://www.youtube.com/watch?v=rYfXbCR3HFQ&ab_channel=AdrianM%C3%BCller (but the video shows how to do on Windows).
 
