@@ -18,7 +18,7 @@ On the app, you'll need to install the Proton-GE latest version
 
 Close your Steam client.
 
-Still on ProtonPlus, select the *Games* tab on the top and select and set the
+Still on ProtonPlus, select the *Games* tab on the top and set the
 *Compatibility tool* to Proton-GE.
 
 ![Properties](img/compat-tool.png)
