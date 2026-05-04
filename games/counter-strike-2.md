@@ -5,6 +5,8 @@
 
 ## On Wayland
 
+### Sound missing
+
 Open the game properties
 
 ![Properties](img/properties.png)
@@ -23,7 +25,9 @@ it with your package manager.
 if this don't work, you can try using the opposite:
 `SDL_AUDIO_DRIVER=pipewire %command% -nojoy -sdlaudiodriver pipewire`
 
-### KDE
+### Fullscreen not applying properly
+
+#### KDE
 
 To solve the fullscreen issue, you need to open the game on windowed mode and
 right click on the window bar (or Alt + F3), and select the option
@@ -35,7 +39,7 @@ On the settings, add a new property to force fullscreen on whe targeted window.
 
 ![Forcing Fullscreen](img/cs2_app.png)
 
-### Others
+#### Others
 
 Applying windowed fullscreen on the game should already work, if not, try adding
 the `-fullscreen` option on the game launch options, example:
