@@ -14,14 +14,14 @@ version of the proton, you can install with flatpak (on the software store).
 
 On the app, you'll need to install the Proton-GE latest version
 
-![Properties](img/proton-ge.png)
+![Proton-GE Installation](img/proton-ge.png)
 
 Close your Steam client.
 
 Still on ProtonPlus, select the *Games* tab on the top and set the
 *Compatibility tool* to Proton-GE.
 
-![Properties](img/compat-tool.png)
+![Adding the customized proton to the game](img/compat-tool.png)
 
 Open again you steam client and must be applied, if not, select in the
 compatibility option on the game Properties.
