@@ -5,7 +5,7 @@
 
 ## On Wayland
 
-### Cursor / Mouse
+### Cursor / Mouse issues
 
 You must install the ProtonPlus application, it'll install to you a customized
 version of the proton, you can install with flatpak (on the software store).
