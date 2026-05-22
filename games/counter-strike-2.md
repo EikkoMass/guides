@@ -35,7 +35,7 @@ right click on the window bar (or Alt + F3), and select the option
 
 ![Select Special Application Settings](img/app_kwin.png)
 
-On the settings, add a new property to force fullscreen on whe targeted window.
+On the settings, add a new property to force fullscreen on the targeted window.
 
 ![Forcing Fullscreen](img/cs2_app.png)
 

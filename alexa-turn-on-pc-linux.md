@@ -50,7 +50,7 @@ Will be necessary to create a new file named as **50-wired.link**:
 **sudo nano /etc/systemd/network/50-wired.link**
 
 
->You can identify your MAC address with the command: 
+>You can identify your MAC address with the command:
 >
 >**ifconfig** your-network-name **| grep -o -E '([[:xdigit:]]{1,2}:){5}[[:xdigit:]]{1,2}'**
 
